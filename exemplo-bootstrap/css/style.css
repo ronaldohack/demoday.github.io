@@ -1,0 +1,17 @@
+header{
+	padding-top: 15%;
+	background-color: green;	
+}
+
+section{
+	background-color: blue;
+}
+
+.texto-alinhado{
+	text-align: center;
+}
+
+.row-botao{
+	margin-top: 15%;
+}
+
